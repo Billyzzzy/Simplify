@@ -1,6 +1,11 @@
+# Simplify
+
 This is a text file explaing this Repo
 
-Backend
+## Group Structure
+
+<b>Backend</b>
 
 Group Leader - Aman
+
 Group Member - Brian, Vinix
